@@ -87,7 +87,7 @@
     "babel-jest": "^27.5.1",
     "bootstrap": "^4.6.1",
     "browserstack-cypress-cli": "^1.19.2",
-    "chromedriver": "^104.0.0",
+    "chromedriver": "^119.0.1",
     "cypress": "^12.1.0",
     "electron": "^18.3.5",
     "electron-builder": "^23.6.0",
